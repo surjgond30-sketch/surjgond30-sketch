@@ -1,8 +1,24 @@
- Hi there 👋
-I'm Suraj Gond from Saraia, Uttar Pradesh, India.
+ # Hi 👋, I'm CyberKiler
 
-- 🌱 I'm currently learning Cyber Security and Ethical Hacking
-- 👀 I'm interested in Linux, BlackArch and Open Source
-- 📫 Learning every day, step by step
+### Suraj Gond | From Saraia, UP, India 🇮🇳
 
-My Goal: To become a real Ethical Hacker and help people stay safe online.
+> BE POWERFUL. BE ETHICAL. BE KALI.
+
+- 🌱 I'm currently learning **Cyber Security & Ethical Hacking**
+- 🐉 I use **Kali Linux** & **Linux**
+- 🎯 My Goal: **Become a real Ethical Hacker**
+- 💻 Learning: **Linux | Networking | Python | Hacking Tools**
+- ⚡ Fun fact: **I started from zero, from a small village**
+
+### 🛠️ My Skills
+- Kali Linux
+- Linux Commands
+- Ethical Hacking
+- Networking
+- Python (Learning)
+
+### 📫 Connect With Me
+- GitHub: CyberKiler
+
+---
+⭐ If you like my journey, follow me!
